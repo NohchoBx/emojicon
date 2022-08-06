@@ -50,7 +50,7 @@ public class MainActivity extends Activity {
 
 		//If the text keyboard closes, also dismiss the emoji popup
 		popup.setOnSoftKeyboardOpenCloseListener(new OnSoftKeyboardOpenCloseListener() {
-
+//
 			@Override
 			public void onKeyboardOpen(int keyBoardHeight) {
 
